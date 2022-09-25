@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Internship-TIE/static/css/main.eeea0635.css",
+    "main.js": "/Internship-TIE/static/js/main.5e45842c.js",
+    "static/media/background.png": "/Internship-TIE/static/media/background.346e66e1395f421734c7.png",
+    "static/media/MJT_logo.png": "/Internship-TIE/static/media/MJT_logo.8a64a44775cc7019826c.png",
+    "index.html": "/Internship-TIE/index.html",
+    "main.eeea0635.css.map": "/Internship-TIE/static/css/main.eeea0635.css.map",
+    "main.5e45842c.js.map": "/Internship-TIE/static/js/main.5e45842c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeea0635.css",
+    "static/js/main.5e45842c.js"
+  ]
+}
